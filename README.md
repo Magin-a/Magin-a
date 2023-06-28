@@ -12,6 +12,6 @@
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
  
-<div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magin-a&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=Magin-a&show_icons=true">
