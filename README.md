@@ -4,7 +4,6 @@
  
 <h3> # Study Note </h3>
    
-  [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/TIL-28aa89dbbdf84200aaa7cb99e026fdc8)](https://glistening-napkin-e86.notion.site/TIL-28aa89dbbdf84200aaa7cb99e026fdc8)
 
 <b> # Tech Stack </b> |
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
@@ -14,3 +13,5 @@
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
  
  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magin-a&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=Magin-a&show_icons=true">
